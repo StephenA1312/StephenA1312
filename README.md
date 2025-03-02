@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @StephenA1312
-- 👀 I’m a software engineer @Netflix
-- 🌱 Everything built here is all for fun. don't take anything serious
+### 👋 Hey there! I'm **Stephen** (aka @StephenA1312)
 
-<!---
-StephenA1312/StephenA1312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Backend Software Engineer @ Netflix**  
+🎯 Building cool things for fun—nothing too serious here 😄  
+💡 Passionate about **high-performance backend systems**, **distributed architectures**, and **scalability**  
+
+🔗 **Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Stephen-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ali-stephen/)
