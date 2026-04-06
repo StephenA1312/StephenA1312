@@ -1,5 +1,3 @@
-### 👋 Hey there! I'm **Stephen** (aka @StephenA1312)
-
 🚀 **Backend Software Engineer @ Netflix**  
 🎯 Building cool things for fun—nothing too serious here 😄  
 💡 Passionate about **high-performance backend systems**, **distributed architectures**, and **scalability**  
