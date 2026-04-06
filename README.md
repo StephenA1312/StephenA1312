@@ -1,4 +1,4 @@
-🚀 **Backend Software Engineer @ Netflix || Payment Processing **  
+🚀 **Backend Software Engineer @ Netflix || Payment Processing**  
 🎯 Building cool things for fun—nothing too serious here 😄  
 💡 Passionate about **high-performance backend systems**, **distributed architectures**, and **scalability**  
 
